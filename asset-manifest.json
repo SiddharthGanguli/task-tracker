@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SiddharthGanguli/task-tracker/static/css/main.bffe55bf.css",
+    "main.js": "/SiddharthGanguli/task-tracker/static/js/main.76af3b33.js",
+    "index.html": "/SiddharthGanguli/task-tracker/index.html",
+    "main.bffe55bf.css.map": "/SiddharthGanguli/task-tracker/static/css/main.bffe55bf.css.map",
+    "main.76af3b33.js.map": "/SiddharthGanguli/task-tracker/static/js/main.76af3b33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bffe55bf.css",
+    "static/js/main.76af3b33.js"
+  ]
+}
